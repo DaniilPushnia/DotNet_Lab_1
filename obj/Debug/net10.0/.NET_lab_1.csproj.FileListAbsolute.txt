@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\.net_labs\.NET_lab_1\bin\Debug\net10.0\.NET_lab_1.exe
+C:\Users\User\Desktop\.net_labs\.NET_lab_1\bin\Debug\net10.0\.NET_lab_1.deps.json
+C:\Users\User\Desktop\.net_labs\.NET_lab_1\bin\Debug\net10.0\.NET_lab_1.runtimeconfig.json
+C:\Users\User\Desktop\.net_labs\.NET_lab_1\bin\Debug\net10.0\.NET_lab_1.dll
+C:\Users\User\Desktop\.net_labs\.NET_lab_1\bin\Debug\net10.0\.NET_lab_1.pdb
+C:\Users\User\Desktop\.net_labs\.NET_lab_1\obj\Debug\net10.0\.NET_lab_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\.net_labs\.NET_lab_1\obj\Debug\net10.0\.NET_lab_1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\.net_labs\.NET_lab_1\obj\Debug\net10.0\.NET_lab_1.AssemblyInfo.cs
+C:\Users\User\Desktop\.net_labs\.NET_lab_1\obj\Debug\net10.0\.NET_lab_1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\.net_labs\.NET_lab_1\obj\Debug\net10.0\.NET_lab_1.dll
+C:\Users\User\Desktop\.net_labs\.NET_lab_1\obj\Debug\net10.0\refint\.NET_lab_1.dll
+C:\Users\User\Desktop\.net_labs\.NET_lab_1\obj\Debug\net10.0\.NET_lab_1.pdb
+C:\Users\User\Desktop\.net_labs\.NET_lab_1\obj\Debug\net10.0\.NET_lab_1.genruntimeconfig.cache
+C:\Users\User\Desktop\.net_labs\.NET_lab_1\obj\Debug\net10.0\ref\.NET_lab_1.dll
